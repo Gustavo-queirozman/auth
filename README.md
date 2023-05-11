@@ -6,7 +6,7 @@ Use lib laravel/fortify to make system authenticated.
 <h2>To user this repository:</h2>
 <ul>
     <li>
-        <h3>Clone this reposicoty</h3>
+        <h3>Clone this repository</h3>
         <pre>git clone https://github.com/Gustavo-queirozman/auth</pre>
     </li>
     <li>
@@ -30,7 +30,7 @@ Use lib laravel/fortify to make system authenticated.
         <pre>DB_CONNECTION=mysql<br>DB_HOST=127.0.0.1<br>DB_PORT=3306<br>DB_DATABASE=db_auth<br>DB_USERNAME=root<br>DB_PASSWORD=</pre>
     </li>
     <li>
-        <h3>To create default tables in mysql at the cmd execute </h3>
+        <h3>Execute in cmd command to create default tables in mysql at the</h3>
         <pre>php artisan migrate</pre>
     </li>
     <li>
