@@ -35,7 +35,7 @@ Use lib laravel/fortify to make system authenticated.
     </li>
     <li>
         <h3>Run project</h3>
-        <pre>php artisan seve</pre>
+        <pre>php artisan serve</pre>
     </li>
 </ul>
 
