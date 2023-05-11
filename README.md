@@ -4,14 +4,14 @@ Use lib laravel/fortify to make system authenticated.
 
 
 
-To this user is repository:
+To use is repository:
 
-<strong>Clone this reposicoty</strong>
+<strong>Clone this repository</strong>
 <pre>
     git clone https://github.com/Gustavo-queirozman/auth
 </pre>
 <br>
-<strong>In cmd execute</strong>
+<strong>Execute in cmd</strong>
 <pre>
     composer install
 </pre>
